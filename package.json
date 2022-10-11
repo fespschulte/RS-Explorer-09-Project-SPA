@@ -1,0 +1,23 @@
+{
+  "name": "09-projectspa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fespschulte/RS-Explorer-09-Project-SPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fespschulte/RS-Explorer-09-Project-SPA/issues"
+  },
+  "homepage": "https://github.com/fespschulte/RS-Explorer-09-Project-SPA#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
